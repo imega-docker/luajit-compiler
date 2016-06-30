@@ -6,7 +6,6 @@ Running luajit object file from C.
 
 ```
 $ make build test
-$ ls -l tests/app
 ```
 
 ## Result
